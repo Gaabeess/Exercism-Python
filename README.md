@@ -1,7 +1,3 @@
 # Exercism-Python
 
-Vou testar um **commit**
-
-```python
-print("hello")
-```
+- Repositório criado para salvar as tarefas feitas pelo Exercism
